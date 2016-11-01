@@ -5,7 +5,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
-        <title>iMedica</title>
+        <title>Osteo Egypt</title>
 
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
@@ -47,14 +47,13 @@
                         <div class="container">                     
                             <div class="social-wrap-head col-md-2 no-pad">
                                 <ul>
-                                <li><a href="#"><i class="icon-facebook head-social-icon" id="face-head" data-original-title="" title=""></i></a></li>
-                                <li><a href="#"><i class="icon-social-twitter head-social-icon" id="tweet-head" data-original-title="" title=""></i></a></li>
-                                <li><a href="#"><i class="icon-google-plus head-social-icon" id="gplus-head" data-original-title="" title=""></i></a></li>
-                                <li><a href="#"><i class="icon-linkedin head-social-icon" id="link-head" data-original-title="" title=""></i></a></li>
-                                <li><a href="#"><i class="icon-rss head-social-icon" id="rss-head" data-original-title="" title=""></i></a></li>
+                                <li><a href="https://www.facebook.com/osteopathicdr"><i class="icon-facebook head-social-icon" id="face-head" data-original-title="" title=""></i></a></li>
+                                <li><a href="https://twitter.com/osteoegyptteam"><i class="icon-social-twitter head-social-icon" id="tweet-head" data-original-title="" title=""></i></a></li>
+                                <li><a href="https://plus.google.com/+heshamkhalilOsteopathicDR"><i class="icon-google-plus head-social-icon" id="gplus-head" data-original-title="" title=""></i></a></li>
+                                <li><a href="https://www.linkedin.com/in/hesham-khalil-97117027"><i class="icon-linkedin head-social-icon" id="link-head" data-original-title="" title=""></i></a></li>
                                 </ul>
                             </div>                            
-                            <div class="top-info-contact pull-right col-md-6">Call Us Today! +123 455 755  |    contact@imedica.com  <div id="search" class="fa fa-search search-head"></div>
+                            <div class="top-info-contact pull-right col-md-6">Call Us Today! +202 33033900 |    info@osteoegypt.org  <div id="search" class="fa fa-search search-head"></div>
                             </div>                      
                         </div>
                     </div><!--Topbar-info-close-->
@@ -86,7 +85,7 @@
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
                             <li class="active"><a href="index.html" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-home"></i>Home</a>
-								<ul class="dropdown-menu">
+								<!--ul class="dropdown-menu">
                                     <li><a href="home-page-1.html">Home Page 1</a></li>
 									<li><a href="home-page-2.html">Home Page 2</a></li>
 									<li><a href="home-page-3.html">Home Page 3</a></li>
@@ -95,11 +94,11 @@
 									<li><a href="home-page-6.html">Home Page 6</a></li>
 									<li><a href="home-page-7.html">Home Page 7</a></li>
 									<li><a href="home-page-8.html">Home Page 8</a></li>
-                                </ul>
+                                </ul-->
 							</li>
 
-                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog"></i>Features<b class="icon-angle-down"></b></a>
-                                <ul class="dropdown-menu">
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-cog"></i>About us<b class="icon-angle-down"></b></a>
+                                <!--ul class="dropdown-menu">
                                 	<li class="dropdown"><a href="#">Page Elements</a>
 										<ul class="dropdown-menu">
 		                                    <li><a href="page-elements-1.html">Page Elements 1</a></li>
@@ -113,36 +112,28 @@
 									<li><a href="pricing-plans.html">Pricing Plans</a></li>
                                     <li><a href="flip-box.html">Flip Box</a></li>
 									<li><a href="call-to-action.html">Call To Action</a></li>
-                                </ul>
+                                </ul-->
                             </li>
                             
-                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-file"></i>Pages<b class="icon-angle-down"></b></a>
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-file"></i>Osteopathy<b class="icon-angle-down"></b></a>
                                 <ul class="dropdown-menu">
-                                	<li class="dropdown"><a href="#">About Us</a>
+                                	<li class="dropdown"><a href="#">Wikipedia</a>
 										<ul class="dropdown-menu">
-		                                    <li><a href="about-us-1.html">About Us 1</a></li>
-                                    		<li><a href="about-us-2.html">About Us 2</a></li>
+		                                    <li><a href="https://en.wikipedia.org/wiki/Osteopathy">Wikipedia English</a></li>
+                                    		<li><a href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A8_%D8%AA%D9%82%D9%88%D9%8A%D9%85%D9%8A">Wikipedia Arabic</a></li>
 		                                </ul>
 		                            </li>
-		                            <li class="dropdown"><a href="#">Services</a>
+		                            <li class="dropdown"><a href="#">Videos</a>
 										<ul class="dropdown-menu">
-		                                    <li><a href="services-1.html">Services 1</a></li>
-                                    		<li><a href="services-2.html">Services 2</a></li>
+		                                    <li><a href="https://www.facebook.com/HKEGYPT/videos/pcb.10153758536431809/10153758527311809/?type=3&theater">Arabic</a></li>
+                                    		<li><a href="https://www.facebook.com/HKEGYPT/videos/pcb.10153758536431809/10153758528796809/?type=3&theater">English</a></li>
 		                                </ul>
 		                            </li>
-                                    <li><a href="departments.html">Departments</a></li>
-                                    <li class="dropdown"><a href="#">Meet Our Doctors</a>
-										<ul class="dropdown-menu">
-		                                    <li><a href="meet-our-doctors-1.html">Meet Our Doctors 1</a></li>
-                                    		<li><a href="meet-our-doctors-2.html">Meet Our Doctors 2</a></li>
-		                                </ul>
-		                            </li>
-                                    <li><a href="testimonials.html">Testimonials</a></li>
-                                    <li><a href="faq.html">FAQs</a></li>
+                                    
 								</ul>
                             </li>
                             
-                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-camera"></i>Gallery<b class="icon-angle-down"></b></a>
+                            <!--li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-camera"></i>Gallery<b class="icon-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                 	<li class="dropdown left-dropdown"><a href="#">Gallery Carousel</a>
 										<ul class="dropdown-menu">
@@ -218,12 +209,12 @@
                                     <li><a href="contact-2.html">Contact Version 2</a></li>
                                     <li><a href="contact-3.html">Contact Version 3</a></li>
                                 </ul>
-                            </li>
+                            </li-->
                         </ul>
                     </div><!-- /.navbar-collapse -->
                                 
                                 
-                                <div class="hide-mid collapse navbar-collapse option-drop" id="bs-example-navbar-collapse-2">
+                                <!--div class="hide-mid collapse navbar-collapse option-drop" id="bs-example-navbar-collapse-2">
                                   
                                   
                                   <ul class="nav navbar-nav navbar-right other-op">
@@ -244,7 +235,7 @@
                                   </ul>
                                 </div><!-- /.navbar-collapse -->
                                 
-                                <div class="hide-mid collapse navbar-collapse cart-drop" id="bs-example-navbar-collapse-3">
+                                <!--div class="hide-mid collapse navbar-collapse cart-drop" id="bs-example-navbar-collapse-3">
                                   
                                   
                                   <ul class="nav navbar-nav navbar-right">
@@ -295,9 +286,9 @@
         <div class="complete-footer">
             <footer id="footer">
             
-            	<div class="container">
+            	<!--div class="container">
                 	<div class="row">
-                    	<!--Foot widget-->
+                    	<!--Foot widget>
                     	<div class="col-xs-12 col-sm-6 col-md-3 foot-widget">
                         <a href="#"><div class="foot-logo col-xs-12 no-pad"></div></a>
                         
@@ -309,7 +300,7 @@
                         </address>
                         </div>
                         
-                        <!--Foot widget-->
+                        <!--Foot widget>
                         <div class="col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget">
                         	<div class="foot-widget-title">Recent Posts</div>
                         	<ul>
@@ -319,7 +310,7 @@
                             </ul>
                         </div>
                         
-                         <!--Foot widget-->
+                         <!--Foot widget>
                         <div class="col-xs-12 col-sm-6 col-md-3 recent-tweet-foot foot-widget">
                         	<div class="foot-widget-title">Recent News</div>
                         	<ul>
@@ -328,7 +319,7 @@
                             </ul>
                         </div>
                         
-                        <!--Foot widget-->
+                        <!--Foot widget>
                         <div class="col-xs-12 col-sm-6 col-md-3 foot-widget">
                         	<div class="foot-widget-title">newsletter</div>
                         	<p>Ipsum dolor sit amet, teft consecte tur.</p>
@@ -346,7 +337,7 @@
                         </div>
                         
                     </div>
-               	 </div>       
+               	 </div-->       
                  
             </footer>
             
@@ -356,14 +347,14 @@
                 <div class="row">
                     <!--Foot widget-->
                     <div class="col-xs-12 col-sm-12 col-md-12 foot-widget-bottom">
-                    <p class="col-xs-12 col-md-5 no-pad">Copyright 2014 iMedica | All Rights Reserved | Designed by RTistic</p>
+                    <p class="col-xs-12 col-md-5 no-pad">Copyright 2016 OsteoEgypt | All Rights Reserved | Designed by RTistic</p>
                     <ul class="foot-menu col-xs-12 col-md-7 no-pad">
-                    <li><a href="about-us-1.html">Pages</a></li>    
+                    <!--li><a href="about-us-1.html">Pages</a></li>    
                     <li><a href="gallery-3-columns.html">Gallery</a></li>
                     <li><a href="blog-masonry-full-width.html">Blog</a></li>    
                     <li><a href="#">Features</a></li>    
-                    <li><a href="contact-2.html">Contact</a></li>    
-                    <li><a href="index.html">home</a></li>                           
+                    <li><a href="contact-2.html">Contact</a></li-->    
+                    <li><a href="index.php">home</a></li>                           
                     
                     </ul>
                     </div>

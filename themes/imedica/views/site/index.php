@@ -13,7 +13,7 @@
                     <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s1-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="bottom"
                         data-hoffset="0"
@@ -22,11 +22,11 @@
                         data-easing="Power4.easeOut"
                         data-endspeed="400"
                         data-endeasing="Power1.easeIn"
-                        ><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s1-img4.png" alt="" class="img-responsive">
+                        >esomar01<img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s1-img4.png" alt="" class="img-responsive">
                     </div>
 
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="85"
                         data-hoffset="83"
@@ -39,7 +39,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="74"
                         data-hoffset="45"
@@ -52,7 +52,7 @@
                     </div>
 
                     <!-- LAYER NR. 4 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="45"
                         data-hoffset="61"
@@ -65,7 +65,7 @@
                     </div>
                     
                     <!-- LAYER NR. 5 -->
-                    <div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="115"
                         data-hoffset="-60"
@@ -74,12 +74,12 @@
                         data-easing="Back.easeOut"
                         data-endspeed="400"
                         data-endeasing="Power1.easeIn"
-                        >Customize each & every<br>page easily !
+                        >Customize each & every<br>page easily ! esomar..
                     </div>
 
 
                     <!-- LAYER NR. 6 -->
-                    <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="222"
                         data-hoffset="-10"
@@ -93,7 +93,7 @@
 
 
                     <!-- LAYER NR. 7 -->
-                    <div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="280"
                         data-hoffset="-60"
@@ -106,7 +106,7 @@
 
 
                     <!-- LAYER NR. 8 -->
-                    <div class="tp-caption s1-but customin skewtoright imed-sl1"
+                    <!--div class="tp-caption s1-but customin skewtoright imed-sl1"
                         data-x="center"
                         data-y="365"
                         data-hoffset="205"
@@ -127,10 +127,10 @@
              <li data-transition="papercut" data-slotamount="7">
                
                     <!-- MAIN IMAGE -->
-                    <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s2-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <!--img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s2-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption lfb stl imed-sl1"
+                    <!--div class="tp-caption lfb stl imed-sl1"
                         data-x="left"
                         data-y="bottom"
                         data-hoffset="-50"
@@ -143,7 +143,7 @@
                     </div>
 
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption skewfromright stl imed-sl1"
+                    <!--div class="tp-caption skewfromright stl imed-sl1"
                         data-x="left"
                         data-y="65"
                         data-hoffset="-20"
@@ -157,7 +157,7 @@
 
                     
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="173"
                         data-hoffset="583"
@@ -170,7 +170,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="143"
                         data-hoffset="493"
@@ -183,7 +183,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="115"
                         data-hoffset="408"
@@ -197,7 +197,7 @@
 
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="89"
                         data-hoffset="332"
@@ -210,7 +210,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="68"
                         data-hoffset="268"
@@ -223,7 +223,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="47"
                         data-hoffset="204"
@@ -236,7 +236,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="222"
                         data-hoffset="478"
@@ -250,7 +250,7 @@
 
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="177"
                         data-hoffset="370"
@@ -263,7 +263,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="140"
                         data-hoffset="278"
@@ -276,7 +276,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="108"
                         data-hoffset="198"
@@ -289,7 +289,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="76"
                         data-hoffset="120"
@@ -302,7 +302,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="292"
                         data-hoffset="398"
@@ -315,7 +315,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="240"
                         data-hoffset="294"
@@ -328,7 +328,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="196"
                         data-hoffset="203"
@@ -341,7 +341,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="158"
                         data-hoffset="123"
@@ -354,7 +354,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft stt imed-sl1"
+                    <!--div class="tp-caption lft stt imed-sl1"
                         data-x="left"
                         data-y="123"
                         data-hoffset="51"
@@ -369,7 +369,7 @@
                     
                     
                     <!-- LAYER NR. 6 -->
-                    <div class="tp-caption whitebg-t1 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption whitebg-t1 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="115"
                         data-hoffset="-60"
@@ -383,7 +383,7 @@
 
 
                     <!-- LAYER NR. 7 -->
-                    <div class="tp-caption whitebg-t2 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption whitebg-t2 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="222"
                         data-hoffset="-10"
@@ -397,7 +397,7 @@
 
 
                     <!-- LAYER NR. 8 -->
-                    <div class="tp-caption whitebg-t3 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption whitebg-t3 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="280"
                         data-hoffset="-60"
@@ -410,7 +410,7 @@
 
 
                     <!-- LAYER NR. 9 -->
-                    <div class="tp-caption s1-but customin skewtoright imed-sl1"
+                    <!--div class="tp-caption s1-but customin skewtoright imed-sl1"
                         data-x="center"
                         data-y="365"
                         data-hoffset="205"
@@ -431,10 +431,10 @@
              <li data-transition="papercut" data-slotamount="7">
                
                     <!-- MAIN IMAGE -->
-                    <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s3-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+                    <!--img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s3-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption sfb skewtoright imed-sl1 rs-parallaxlevel-1"
+                    <!--div class="tp-caption sfb skewtoright imed-sl1 rs-parallaxlevel-1"
                         data-x="left"
                         data-y="30"
                         data-hoffset="-20"
@@ -447,7 +447,7 @@
                     </div>
 
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1 rs-parallaxlevel-2"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1 rs-parallaxlevel-2"
                         data-x="left"
                         data-y="220"
                         data-hoffset="203"
@@ -460,7 +460,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1 rs-parallaxlevel-3"
+                    <!--div class="tp-caption lft skewtoright imed-sl1 rs-parallaxlevel-3"
                         data-x="left"
                         data-y="234"
                         data-hoffset="185"
@@ -474,7 +474,7 @@
 
                     
                     <!-- LAYER NR. 5 -->
-                    <div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="115"
                         data-hoffset="-60"
@@ -488,7 +488,7 @@
 
 
                     <!-- LAYER NR. 6 -->
-                    <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="222"
                         data-hoffset="-10"
@@ -502,7 +502,7 @@
 
 
                     <!-- LAYER NR. 7 -->
-                    <div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="280"
                         data-hoffset="-60"
@@ -515,7 +515,7 @@
 
 
                     <!-- LAYER NR. 8 -->
-                    <div class="tp-caption s1-but customin skewtoright imed-sl1"
+                    <!--div class="tp-caption s1-but customin skewtoright imed-sl1"
                         data-x="center"
                         data-y="365"
                         data-hoffset="205"
@@ -539,7 +539,7 @@
                     <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/new-slider/s3-bg.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
                     <!-- LAYERS -->
                     <!-- LAYER NR. 1 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="bottom"
                         data-hoffset="-30"
@@ -552,7 +552,7 @@
                     </div>
 
                     <!-- LAYER NR. 2 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="113"
                         data-hoffset="274"
@@ -565,7 +565,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="103"
                         data-hoffset="192"
@@ -578,7 +578,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="111"
                         data-hoffset="192"
@@ -591,7 +591,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lfb skewtoright imed-sl1"
+                    <!--div class="tp-caption lfb skewtoright imed-sl1"
                         data-x="left"
                         data-y="94"
                         data-hoffset="6"
@@ -604,7 +604,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="99"
                         data-hoffset="273"
@@ -617,7 +617,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="29"
                         data-hoffset="-20"
@@ -630,7 +630,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="73"
                         data-hoffset="0"
@@ -643,7 +643,7 @@
                     </div>
 
                     <!-- LAYER NR. 3 -->
-                    <div class="tp-caption lft skewtoright imed-sl1"
+                    <!--div class="tp-caption lft skewtoright imed-sl1"
                         data-x="left"
                         data-y="89"
                         data-hoffset="192"
@@ -657,7 +657,7 @@
 
                     
                     <!-- LAYER NR. 5 -->
-                    <div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t1 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="115"
                         data-hoffset="-40"
@@ -671,7 +671,7 @@
 
 
                     <!-- LAYER NR. 6 -->
-                    <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="222"
                         data-hoffset="10"
@@ -685,7 +685,7 @@
 
 
                     <!-- LAYER NR. 7 -->
-                    <div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
+                    <!--div class="tp-caption bluebg-t3 sfr skewtoright imed-sl1"
                         data-x="right"
                         data-y="280"
                         data-hoffset="-40"
@@ -698,7 +698,7 @@
 
 
                     <!-- LAYER NR. 8 -->
-                    <div class="tp-caption s1-but customin skewtoright imed-sl1"
+                    <!--div class="tp-caption s1-but customin skewtoright imed-sl1"
                         data-x="center"
                         data-y="365"
                         data-hoffset="225"
@@ -708,7 +708,7 @@
                         data-easing="Back.easeOut"
                         data-endspeed="400"
                         data-endeasing="Power1.easeIn"
-                        ><a href="#">Purchase Now</a></div>
+                        ><a href="#">Purchase Now</a></div-->
                     
                     
                     
@@ -729,14 +729,14 @@
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="0.6s" data-wow-offset="150">
                     	<div class="icon-boxwrap2"><i class="fa fa-medkit icon-box-back2"></i></div>
-                        <div class="icon-box2-title">24 hour Service</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                        <div class="icon-box2-title">Cranial Osteopathy</div>
+                        <p>Also Called (Osteopathy in Cranial Field) encourages the release of stresses and tensions.</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Read More</a></div>
+                        <div class="iconbox-readmore"><a href="http://www.scco.ac/about-osteopathy/what-cranial-osteopathy/">Read More</a></div>
                      </div>   
                     </div>
                     
@@ -744,14 +744,14 @@
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInDown" data-wow-delay="0.9s" data-wow-offset="150">
                     	<div class="icon-boxwrap2"><i data-icon="\e609" class="icon-stethoscope icon-box-back2"></i></div>
-                        <div class="icon-box2-title">Health Care Solutions</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                        <div class="icon-box2-title">Visceral Osteopathy</div>
+                        <p>VM assists functional and structural imbalances throughout the body including musculoskeletal.</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Read More</a></div>
+                        <div class="iconbox-readmore"><a href="https://thekingclinic.co.uk/visceral-osteopathy/">Read More</a></div>
                      </div>   
                     </div>
                     
@@ -759,14 +759,14 @@
                     <div class="col-sm-6 col-xs-12 col-md-3 col-lg-3">
                      <div class="icon-box-3 wow fadeInUp" data-wow-delay="1.2s" data-wow-offset="150">
                     	<div class="icon-boxwrap2"><i class="icon-ambulance icon-box-back2"></i></div>
-                        <div class="icon-box2-title">Advanced Technology</div>
-                        <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elit. Ut eu nisl quis augue suscipit dignissim.</p>
+                        <div class="icon-box2-title">Structural Osteopathy</div>
+                        <p>Structural osteopathy is the better know facet of osteopathic medicine.</p>
                         <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-                        <div class="iconbox-readmore"><a href="#">Read More</a></div>
+                        <div class="iconbox-readmore"><a href="http://thenaturalhealthcentre.net/structural-osteopathy-2/">Read More</a></div>
                      </div>   
                     </div>
                     
@@ -776,9 +776,9 @@
                     	<div class="icon-boxwrap2"><i class="fa fa-clock-o icon-box-back2"></i></div>
                          <div class="icon-box2-title">Opening Hours</div>
                         <ul>
-                        <li>Monday - Friday <span class="ibox-right-span">8.00  - 18.00</span></li>
-                        <li>Saturday <span class="ibox-right-span">8.00  - 16.00</span></li>
-                        <li>Sunday <span class="ibox-right-span">8.00 - 13.00</span></li>
+                        <li>Sunday - Thursday <span class="ibox-right-span">17.00  - 22.00</span></li>
+                        <li>Friday <span class="ibox-right-span">18.00  - 20.00</span></li>
+                        <li>Saturday <span class="ibox-right-span">18.00  - 20.00</span></li>
                         </ul>
                      </div>   
                     </div>
@@ -806,9 +806,9 @@
                                 	<i class="icon-hospital2 icon-list-icons"></i>
                                 	<div class="iconlist-content">
                                     	
-                                    	<div class="iconlist-title">Great Infrastructure</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
+                                    	<div class="iconlist-title">Great Team</div>
+                                        <p class="iconlist-text">You'll feel welcome right from the start because we treat every patient with respect. 
+                                        	You are not just one patient among others, you are a unique individual with unique dental needs. </p>
                                     </div>
                                     
                                 	</li>
@@ -818,20 +818,19 @@
                                 	<div class="iconlist-content">
                                     	
                                     	<div class="iconlist-title">Qualified Doctors</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
+                                        <p class="iconlist-text">An international team of highly-trained specialists with experience in every field of Osteopathy </p>
                                     </div>
                                    
                                 	</li>
                                     
-                                    <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="70">
+                                     <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="60">
                                 	<i class="fa fa-ambulance icon-list-icons"></i>
                                 	<div class="iconlist-content">
                                     	
-                                    	<div class="iconlist-title">Emergency Departments</div>
-                                        <p class="iconlist-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-        doloremque laudantium, totam rem aperiam. </p>
+                                    	<div class="iconlist-title">Emergency appointments</div>
+                                        <p class="iconlist-text">An international team of highly-trained specialists with experience in every field of Osteopathy </p>
                                     </div>
+                                   
                                 	</li>
                                 </ul>
                                 </div>
@@ -850,12 +849,12 @@
                 <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 pull-right"> 
                         <div class="purchase-strip-blue pull-right col-sm-12 col-md-12 col-xs-12 pull-left notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">
-                        <div class="purchase-strip-text">IMEDICA IS CLEAN AND <span class="ipurcahse-strip-text">PROFESSIONAL</span> THEME FOR YOU !</div>
-                        <div class="color-4">
+                        <div class="purchase-strip-text">Your most reliable source of Osteopathic information in the Middle East </div>
+                        <!--div class="color-4">
                             <p class="ipurchase-paragraph">
                                 <button class="icon-cart btn btn-4 btn-4a notViewed wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="150">Purchase Theme</button>
                             </p>
-                        </div>
+                        </div-->
                         
                         </div>
                         
@@ -871,48 +870,38 @@
              
              <!--Latest Post Start-->
              
-                 <div class="col-xs-12 col-sm-12 col-md-6 pull-left">
+                 <div class="pull-left">
                  
                     <div class="latest-post-wrap pull-left wow fadeInLeft" data-wow-delay="0.5s" data-wow-offset="100">
                         <div class="subtitle col-xs-12 no-pad col-sm-11 col-md-12 pull-left news-sub">latest news</div>
                         
                         <!--Post item-->
-                        <div class="post-item-wrap pull-left col-sm-6 col-md-12 col-xs-12">
+                        <div class="post-item-wrap pull-left">
                             <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/news-1.jpg" class="img-responsive post-author-img" alt="" />
-                            	<div class="post-content1 pull-left col-md-9 col-sm-9 col-xs-8">
-        	                        <div class="post-title pull-left"><a href="#">Etiam tristique sagittis pulvinar</a></div>
+                            	<div class="post-content1 pull-left">
+        	                        <div class="post-title pull-left"><a href="#">Message from Dr.Hesham Khalil, founder of OsteoEgypt</a></div>
         	                        <div class="post-meta-top pull-left">
         	                            <ul>
-        	                            <li><i class="icon-calendar"></i>25 DEC 2013</li>
-        	                            <li><a href="#"><i class="icon-comments"></i>3</a></li>
+        	                            <li><i class="icon-calendar"></i>25 October 2016</li>
+        	                            <!--li><a href="#"><i class="icon-comments"></i>3</a></li-->
         	                            </ul>
         	                        </div>
                                 </div>
-                                <div class="post-content2 pull-left">                   
-                                	<p>Integer iaculis egestas odio, vel dictum turpis placerat id elle se nisl eget odio eleifend, nec blandit libero porta aliquam vel veh dui nam sit amet ultricies sapien.<br />
-                                	<span class="post-meta-bottom"><a href="#">Continue Reading...</a></span></p>
+                                <div class="post-item-wrap pull-left">                   
+                                	<p>One great lesson I have learned from our experience starting our Company. It is not easy to establish a new model of anything within a very traditional community. It took more than 35 local and international workshops/seminars, key note speaking, a lot of lecture, a lot of money, and a lot of effort from many pioneers and talented people to plant a small but strong seed of osteopathy in a very fierily land of the middle east. Many heroes have inspired this project to come to life, Some from US, Canada, Egypt, UK, and also from The Gulf area, whose have helped me to make this possible. For the record, I would like to thank all my “heroes” who worked behind the scene; I will start from the origin:
+Cairo Egypt: my mom, my sisters, my aunts, my wife and son, who believed in the cause and supported the project from day one.
+My Teachers: from around the world starting from Cairo- Egypt, Chicago -USA, Toronto –Canada, Midstone - UK for their passionate teaching.
+To my best friends and Partners at URP- Chicago for being adaptive and Supportive.
+My colleagues, management and students of my Paulson Rehab Study Groups.
+My Wonderful Chicago Friends: Of The Chicago Cranial Group (Midwestern University) for their inspiration, help and true osteopathic gift which they share with me all the time.
+To My Students and Colleagues: I would like them to be open minded, think outside of the box, and remember we are practitioners before researchers. As much as I want you to value the EBP but in the same time I don't want you to be stock on the evidence. Rather think about how to scientifically prove new Evidence. When it comes to knowledge, we need to invent, to come up with solutions to our problems. We need to think and not be afraid of expressing our thoughts. None should limit our thinking and imagination; big projects usually start by a simple dream to achieve something new and useful idea. It is still just the beginning. May god help all of us to see our dreams come true in the near future-, I have a Dream to see osteopathic schools in every African Nation, in every Middle Eastern Country to serve our people, our families who truly are in desperate need of such services? We have a lot of challenges ahead of us, are focused, Be Leader in your work place, Pray a lot… Prayers always work for me.</p>
                          		</div>
                          </div>
                          
                          <!--Post item-->
-                        <div class="post-item-wrap pull-left col-sm-6 col-md-12 col-xs-12">
-                            <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/news-2.jpg" class="img-responsive post-author-img" alt="" />
-                            <div class="post-content1 pull-left col-md-9 col-sm-9 col-xs-8">
-        	                        <div class="post-title pull-left"><a href="#">Etiam tristique sagittis pulvinar</a></div>
-        	                        <div class="post-meta-top pull-left">
-        	                            <ul>
-        	                            <li><i class="icon-calendar"></i>25 DEC 2013</li>
-        	                            <li><a href="#"><i class="icon-comments"></i>3</a></li>
-        	                            </ul>
-        	                        </div>
-                                </div>
-                                <div class="post-content2 pull-left">                   
-                                	<p>Integer iaculis egestas odio, vel dictum turpis placerat id elle se nisl eget odio eleifend, nec blandit libero porta aliquam vel veh dui nam sit amet ultricies sapien.<br />
-                                	<span class="post-meta-bottom"><a href="#">Continue Reading...</a></span></p>
-                         		</div>
-                         </div>
+                        
                          
-                         <a href="#" class="dept-details-butt posts-showall">Show All</a>
+                         <!--a href="#" class="dept-details-butt posts-showall">Show All</a-->
                             
                         </div>
                     </div>
@@ -922,196 +911,11 @@
                  
                  <!--Latest Post End-->
              
-                 <!--Departments Start-->
-                 
-                    <div class="col-xs-12 col-sm-12 col-md-6 pull-right department-wrap wow fadeInRight" data-wow-delay="0.5s" data-wow-offset="100">
-                    
-                    <div class="subtitle pull-left">Departments</div>
-                        
-                        <div id="imedica-dep-accordion">
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-ambulance dept-icon"></i><span class="dep-txt">Primary Health Care</span></h3>
-                            <div>
-                                
-                                <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dep-dummy.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-                            
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-stethoscope dept-icon"></i><span class="dep-txt">Outpatient Rehab</span></h3>
-                            <div>
-                                <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dept-01.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>
-                            </div>
-                            
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-heart dept-icon"></i><span class="dep-txt">Ophthalmology Clinic</span></h3>
-                            <div>
-                               <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dept-02.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>                
-                            </div>
-                            
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-stethoscope dept-icon"></i><span class="dep-txt">Outpatient Surgery</span></h3>
-                            <div>
-                                <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dept-03.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>                
-                            </div>
-                            
-                            <!-- Accordion Item -->
-                            <h3><i class="icon-medkit dept-icon"></i><span class="dep-txt">Cardiac Clinic</span></h3>
-                            <div>
-                                <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dept-04.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" /> 
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>                
-                            </div>
-                            
-                            <!-- Accordion Item -->
-                            <h3 class="last-child-ac ilast-child-acc"><i class="icon-heart dept-icon"></i><span class="dep-txt">Primary Health Care</span></h3>
-                            <div>
-                               <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/dept-05.jpg" class="img-responsive dept-author-img-desk col-md-4" alt="" />
-                                <div class="dept-content pull-left col-md-7 col-lg-8">
-                                <div class="dept-title pull-left">Donec scelerisque, leo non eleifend</div> 
-                                <p>Lorem ipsum dolor sit amet, consecte tur adipiscing elitut eu nisl quis augue suscipit dignissim. Duis vulputate nisl sit amet feugiat tincidunt. amet, consecte tur adipiscing elitut eu ni.</p>
-                                
-                                <a href="#" class="dept-details-butt">Details</a>
-                                <div class="purchase-strip-blue dept-apponit-butt"><div class="color-4">
-                                    <p class="ipurchase-paragraph">
-                                        <button class="icon-calendar btn btn-4 btn-4a notViewed">Appointment</button>
-                                    </p>
-                                </div></div>
-                                <div class="vspacer"></div>
-                                </div>                
-                            </div>
-                            
-                        </div>
-                        
-                        
-                    </div>
-             
-                 <!--Departments End-->
+
                  </div>
                  </div>
                  
-            <!--Counter Start-->
-            <div class="Counter-wrap" id="counters">
-            
-            <div id="third" class="back-color-holder">
-            	<div class="container">
-                <div class="row">
-                
-                
-                <div class="banner-bottom-text2 no-pad col-xs-12 wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="100">
-                
-                <div class="subtitle">About iMedica</div>
-        	    
-        	    </div>
-                
-                
-                	<!--Counter Box-->
-                    <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                    	<div class="counter-box">
-                        	
-                            <div class="counter-style" id="myTargetElement"></div>
-                            <div class="counter-lable">Doctors</div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Counter Box-->
-                    <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                    	<div class="counter-box">
-                        	
-                            <div class="counter-style" id="myTargetElement2"></div>
-                            <div class="counter-lable">Clinic Rooms</div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Counter Box-->
-                    <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                    	<div class="counter-box">
-                        	
-                            <div class="counter-style" id="myTargetElement3"></div>
-                            <div class="counter-lable">Awards</div>
-                            
-                        </div>
-                    </div>
-                    
-                    <!--Counter Box-->
-                    <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
-                    	<div class="counter-box">
-                        	
-                            <div class="counter-style" id="myTargetElement4"></div>
-                            <div class="counter-lable">Happy Patients</div>
-                            
-                        </div>
-                    </div>
-                    
-                    
-                </div>
-                </div>
-                </div>
-            
-            </div>
-            
-            <!--Counter End-->
+           
             <!--Testimonail Wrap-->
             <div class="testimonial-wrap ihome-testi-wrap">
             
@@ -1125,52 +929,25 @@
                      <ul id="home-testimonials">
                         <!--Testimonial Item-->    
                         <li>
-                        <a class="testi-one testi-1" data-toggle="popover" data-placement="top" data-original-title=' elementum id enim. Curabitur  Quisque velit nisi, pretium ut lacinia in, amet nisl tempus convallis quislacinia in, amet nisl tempus convallis quis ac lectus.' data-content='<span class="testi-client-name">Jhon Snow</span> <br> <span class="testi-client-pos">Creative Officer</span>'>
+                        <a class="testi-one testi-1" data-toggle="popover" data-placement="top" data-original-title=' When you have adjusted the physical to its normal demands. Nature supplies the remainder' data-content='<span class="testi-client-name">Dr Andrew Taylor Still. </span> <br> <span class="testi-client-pos">Founder of Osteopathy</span>'>
                         <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/client-img-testi.png" alt="" class="img-responsive client-logo-img" />
                         </a>
                         </li>
                         <!--Testimonial Item-->    
                         <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.' data-content='Rob Stark <br> Creative Officer'>
+                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='The first principle in the primary respiratory mechanism, the fluctuation of the cerebrospinal fluid, has a potency with an Intelligence.' data-content=' W. G. Sutherland <br>  DO'>
                         <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-03.png" alt="" class="img-responsive client-logo-img" />
                         </a>
                         </li>
                         <!--Testimonial Item-->
+                          <!--Testimonial Item-->    
                         <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='non nulla sit amet nisl tempus convallis quis ac lectus.Curabitur non nulla sit id enim. Curabitur non nulla siamet nisl tempus convallis quis ac lectus.' data-content='Jhon Snow <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-01.png" alt="" class="img-responsive client-logo-img" />
+                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='The first principle in the primary respiratory mechanism, the fluctuation of the cerebrospinal fluid, has a potency with an Intelligence.' data-content=' W. G. Sutherland <br>  DO'>
+                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-03.png" alt="" class="img-responsive client-logo-img" />
                         </a>
                         </li>
                         <!--Testimonial Item-->
-                        <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.Curabitur non nulla sit amet nisl tempus Quisque velit nisi, pretium ut lacinia in, elementum convallis quis ac lectus.' data-content='Rob Stark <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-04.png" alt="" class="img-responsive client-logo-img" />
-                        </a>
-                        </li>
-                        <!--Testimonial Item-->
-                        <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='nia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac leQuisque velit nisi, pretium ut lacictus.Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.' data-content='Jhon Snow <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-05.png" alt="" class="img-responsive client-logo-img" />
-                        </a>
-                        </li>
-                        <!--Testimonial Item-->
-                        <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='entum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.Curabitur non nulla sit ameQuisque velit nisi, pretium ut lacinia in, elemt nisl tempus convallis quis ac lectus.' data-content='Rob Stark <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-02.png" alt="" class="img-responsive client-logo-img" />
-                        </a>
-                        </li>
-                        <!--Testimonial Item-->
-                        <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='abitur non nulla sit amet nisl tempus convallis quis ac lectus.Curabitur non nulla Quisque velit nisi, pretium ut lacinia in, elementum id enim. Cursit amet nisl tempus convallis quis ac lectus.' data-content='Jhon Snow <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-01.png" alt="" class="img-responsive client-logo-img" />
-                        </a>
-                        </li>
-                        <!--Testimonial Item-->
-                        <li>
-                        <a class="testi-one" data-toggle="popover" data-placement="top" data-original-title='ut lacinia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.CurQuisque velit nisi, pretium abitur non nulla sit amet nisl tempus convallis quis ac lectus.' data-content='Rob Stark <br> Creative Officer'>
-                        <img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/home-img-testi-06.png" alt="" class="img-responsive client-logo-img" />
-                        </a>
-                        </li>
+                        
                         </ul>  
                      
                      </div>
@@ -1181,25 +958,7 @@
             </div>
             
             <!--Testimonail Wrap-->
-                 <div class="cl-wrap icl-wrap">
-                 <div class="container">
-                 
-                 <div class="row">		
-                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 pull-left client-logo-flex wow fadeInUp" data-wow-delay="0.5s" data-wow-offset="100">
-                     
-        	             <ul id="clients-carousel" class="icl-carousel">
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo1.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo2.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo3.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo4.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo5.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	                <li><a href="#"><img src="<?php echo Yii::app()->baseUrl;?>/imedica/images/nlogo6.png" alt="" class="img-responsive client-logo-img"/></a></li>
-        	            </ul>   
-                     
-                     </div>
-                 </div>    
-                     
-                 </div></div>
+
             
                <!--Footer Start-->
             
