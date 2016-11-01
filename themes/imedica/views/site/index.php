@@ -12,18 +12,15 @@
 <!--Osteo Videos-->
 <div class="container">
 <div class="row">
-  <div class="row default-row-spacer">
-     <div style="margin:0 auto ; width: 40%; ">
-     <img src="<?php echo Yii::app()->baseUrl;?>/images/icon-arrow.png" alt="play icon"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-     What is Osteopathy?
-      <video width="100%"  controls>
+<div class="default-row-spacer">
+  <div style="margin:0 auto ; width: 50%; "> <img src="<?php echo Yii::app()->baseUrl;?>/images/icon-arrow.png" alt="play icon"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat"> What is Osteopathy?
+    <video width="100%"  controls>
       <source src="<?php echo Yii::app()->baseUrl;?>/videos/Osteo01English.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-        </video>
-        </div>
+      Your browser does not support the video tag. </video>
   </div>
-<div>
-<div>
+</div>
+</div>
+</div>
 <!--end Osteo Videos-->
 <!--Icon Boxes 1-->
 <div class="container">
@@ -161,29 +158,22 @@
           </div>
           <div class="post-item-wrap pull-left">
             <p>One great lesson I have learned from our experience starting our Company. It is not easy to establish a new model of anything within a very traditional community. It took more than 35 local and international 
-            workshops/seminars, key note speaking, a lot of lecture, a lot of money, and a lot of effort from many pioneers and talented people to plant a small but strong seed of osteopathy in a very fierily land of the 
-            middle east. 
-            </p>
-            <p>
-            Many heroes have inspired this project to come to life, Some from US, Canada, Egypt, UK, and also from The Gulf area, whose have helped me to make this possible. For the record, I would like to thank all my 
-            "heroes" who worked behind the scene; I will start from the origin:
+              workshops/seminars, key note speaking, a lot of lecture, a lot of money, and a lot of effort from many pioneers and talented people to plant a small but strong seed of osteopathy in a very fierily land of the 
+              middle east. </p>
+            <p> Many heroes have inspired this project to come to life, Some from US, Canada, Egypt, UK, and also from The Gulf area, whose have helped me to make this possible. For the record, I would like to thank all my 
+              "heroes" who worked behind the scene; I will start from the origin:
               Cairo Egypt: my mom, my sisters, my aunts, my wife and son, who believed in the cause and supported the project from day one.
-              My Teachers: from around the world starting from Cairo- Egypt, Chicago - USA, Toronto - Canada, Midstone - UK for their passionate teaching.
-              </p>
-            <p>
-              To my best friends and Partners at URP- Chicago for being adaptive and Supportive.
+              My Teachers: from around the world starting from Cairo- Egypt, Chicago - USA, Toronto - Canada, Midstone - UK for their passionate teaching. </p>
+            <p> To my best friends and Partners at URP- Chicago for being adaptive and Supportive.
               My colleagues, management and students of my Paulson Rehab Study Groups.
               My Wonderful Chicago Friends: Of The Chicago Cranial Group (Midwestern University) for their inspiration, help and true osteopathic gift which they share with me all the time.
               To My Students and Colleagues: I would like them to be open minded, think outside of the box, and remember we are practitioners before researchers. As much as I want you to value the EBP but in the same time I 
-
+              
               don't want you to be stock on the evidence. Rather think about how to scientifically prove new Evidence. When it comes to knowledge, we need to invent, to come up with solutions to our problems. We need to think 
-              and not be afraid of expressing our thoughts. None should limit our thinking and imagination; big projects usually start by a simple dream to achieve something new and useful idea. 
-              </p>
-            <p>
-              It is still just the beginning. 
+              and not be afraid of expressing our thoughts. None should limit our thinking and imagination; big projects usually start by a simple dream to achieve something new and useful idea. </p>
+            <p> It is still just the beginning. 
               May god help all of us to see our dreams come true in the near future-, I have a Dream to see osteopathic schools in every African Nation, in every Middle Eastern Country to serve our people, and our families who
-              truly are in desperate need of such services.
-             </p>
+              truly are in desperate need of such services. </p>
           </div>
         </div>
         <!--Post item-->
