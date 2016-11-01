@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.default-row-spacer{
+    margin-top:10px;
+}
+.default-right-spacer{
+    margin-right:10px;
+}
+.large-row-spacer{
+    margin-top:20px;
+}
+

@@ -9,6 +9,21 @@
     </ul>
   </div>
 </div>
+<!--Osteo Videos-->
+
+<div>
+  <div class="row default-row-spacer">
+     <div style="margin:0 auto ; width: 768px; ">
+     <img src="<?php echo Yii::app()->baseUrl;?>/images/icon-arrow.png" alt="play icon"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
+     What is Osteopathy?
+      <video width="768" height="432" controls>
+      <source src="<?php echo Yii::app()->baseUrl;?>/videos/Osteo01English.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+        </video>
+        </div>
+  </div>
+<div>
+<!--end Osteo Videos-->
 <!--Icon Boxes 1-->
 <div class="container">
   <div class="row">
@@ -84,7 +99,7 @@
                 <div class="iconlist-content">
                   <div class="iconlist-title">Great Team</div>
                   <p class="iconlist-text">You'll feel welcome right from the start because we treat every patient with respect. 
-                    You are not just one patient among others, you are a unique individual with unique dental needs. </p>
+                    You are not just one patient among others, you are a unique individual with unique osteopathic needs. </p>
                 </div>
               </li>
               <li class="notViewed wow fadeInDown" data-wow-delay="0.5s" data-wow-offset="60"> <i class="fa fa-user-md icon-list-icons"></i>

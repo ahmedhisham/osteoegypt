@@ -10,7 +10,7 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,300' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Noto+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
 
-            <link href="<?php echo Yii::app()->baseUrl;?>/css/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
+        <link href="<?php echo Yii::app()->baseUrl;?>/css/jquery-ui-1.10.3.custom.css" rel="stylesheet" />
         <link href="<?php echo Yii::app()->baseUrl;?>/css/animate.css" rel="stylesheet" />
         <link href="<?php echo Yii::app()->baseUrl;?>/css/font-awesome.min.css" rel="stylesheet" />
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->baseUrl;?>/css/blue.css" id="style-switch" />
@@ -23,7 +23,7 @@
 
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->baseUrl;?>/css/slides.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->baseUrl;?>/css/inline.min.css" />
-
+		<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->baseUrl;?>/css/osteo.css" />
 
     </head>
     <body>
