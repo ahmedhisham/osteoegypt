@@ -13,10 +13,10 @@
 
 <div>
   <div class="row default-row-spacer">
-     <div style="margin:0 auto ; width: 768px; ">
+     <div style="margin:0 auto ; width: 40%; ">
      <img src="<?php echo Yii::app()->baseUrl;?>/images/icon-arrow.png" alt="play icon"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
      What is Osteopathy?
-      <video width="768" height="432" controls>
+      <video width="100%"  controls>
       <source src="<?php echo Yii::app()->baseUrl;?>/videos/Osteo01English.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video>
