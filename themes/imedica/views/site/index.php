@@ -39,7 +39,7 @@
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-          <div class="iconbox-readmore"><a href="http://www.scco.ac/about-osteopathy/what-cranial-osteopathy/">Read More</a></div>
+          <div class="iconbox-readmore"><a href="http://www.scco.ac/about-osteopathy/what-cranial-osteopathy/" target="_blank">Read More</a></div>
         </div>
       </div>
       <!--Icon-box-start-->
@@ -53,7 +53,7 @@
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-          <div class="iconbox-readmore"><a href="https://thekingclinic.co.uk/visceral-osteopathy/">Read More</a></div>
+          <div class="iconbox-readmore"><a href="https://thekingclinic.co.uk/visceral-osteopathy/" target="_blank">Read More</a></div>
         </div>
       </div>
       <!--Icon-box-start-->
@@ -61,13 +61,13 @@
         <div class="icon-box-3 wow fadeInUp" data-wow-delay="1.2s" data-wow-offset="150">
           <div class="icon-boxwrap2"><i class="icon-ambulance icon-box-back2"></i></div>
           <div class="icon-box2-title">Structural Osteopathy</div>
-          <p>Structural osteopathy is the better know facet of osteopathic medicine.</p>
+          <p>It describes the diagnosis & treatment of dysfunctions in the musculoskeletal system</p>
           <!--<section class="color-10">
                             <nav class="cl-effect-10">
                             <a href="#" data-hover="Read More"><span>Read More</span></a>
                             </nav>
                         </section>-->
-          <div class="iconbox-readmore"><a href="http://thenaturalhealthcentre.net/structural-osteopathy-2/">Read More</a></div>
+          <div class="iconbox-readmore"><a href="http://thenaturalhealthcentre.net/structural-osteopathy-2/" target="_blank">Read More</a></div>
         </div>
       </div>
       <!--Icon-box-start-->
@@ -159,13 +159,30 @@
             </div>
           </div>
           <div class="post-item-wrap pull-left">
-            <p>One great lesson I have learned from our experience starting our Company. It is not easy to establish a new model of anything within a very traditional community. It took more than 35 local and international workshops/seminars, key note speaking, a lot of lecture, a lot of money, and a lot of effort from many pioneers and talented people to plant a small but strong seed of osteopathy in a very fierily land of the middle east. Many heroes have inspired this project to come to life, Some from US, Canada, Egypt, UK, and also from The Gulf area, whose have helped me to make this possible. For the record, I would like to thank all my “heroes” who worked behind the scene; I will start from the origin:
+            <p>One great lesson I have learned from our experience starting our Company. It is not easy to establish a new model of anything within a very traditional community. It took more than 35 local and international 
+            workshops/seminars, key note speaking, a lot of lecture, a lot of money, and a lot of effort from many pioneers and talented people to plant a small but strong seed of osteopathy in a very fierily land of the 
+            middle east. 
+            </p>
+            <p>
+            Many heroes have inspired this project to come to life, Some from US, Canada, Egypt, UK, and also from The Gulf area, whose have helped me to make this possible. For the record, I would like to thank all my 
+            "heroes" who worked behind the scene; I will start from the origin:
               Cairo Egypt: my mom, my sisters, my aunts, my wife and son, who believed in the cause and supported the project from day one.
-              My Teachers: from around the world starting from Cairo- Egypt, Chicago -USA, Toronto –Canada, Midstone - UK for their passionate teaching.
+              My Teachers: from around the world starting from Cairo- Egypt, Chicago - USA, Toronto - Canada, Midstone - UK for their passionate teaching.
+              </p>
+            <p>
               To my best friends and Partners at URP- Chicago for being adaptive and Supportive.
               My colleagues, management and students of my Paulson Rehab Study Groups.
               My Wonderful Chicago Friends: Of The Chicago Cranial Group (Midwestern University) for their inspiration, help and true osteopathic gift which they share with me all the time.
-              To My Students and Colleagues: I would like them to be open minded, think outside of the box, and remember we are practitioners before researchers. As much as I want you to value the EBP but in the same time I don't want you to be stock on the evidence. Rather think about how to scientifically prove new Evidence. When it comes to knowledge, we need to invent, to come up with solutions to our problems. We need to think and not be afraid of expressing our thoughts. None should limit our thinking and imagination; big projects usually start by a simple dream to achieve something new and useful idea. It is still just the beginning. May god help all of us to see our dreams come true in the near future-, I have a Dream to see osteopathic schools in every African Nation, in every Middle Eastern Country to serve our people, our families who truly are in desperate need of such services? We have a lot of challenges ahead of us, are focused, Be Leader in your work place, Pray a lot… Prayers always work for me.</p>
+              To My Students and Colleagues: I would like them to be open minded, think outside of the box, and remember we are practitioners before researchers. As much as I want you to value the EBP but in the same time I 
+
+              don't want you to be stock on the evidence. Rather think about how to scientifically prove new Evidence. When it comes to knowledge, we need to invent, to come up with solutions to our problems. We need to think 
+              and not be afraid of expressing our thoughts. None should limit our thinking and imagination; big projects usually start by a simple dream to achieve something new and useful idea. 
+              </p>
+            <p>
+              It is still just the beginning. 
+              May god help all of us to see our dreams come true in the near future-, I have a Dream to see osteopathic schools in every African Nation, in every Middle Eastern Country to serve our people, and our families who
+              truly are in desperate need of such services.
+             </p>
           </div>
         </div>
         <!--Post item-->
