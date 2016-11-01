@@ -10,8 +10,8 @@
   </div>
 </div>
 <!--Osteo Videos-->
-
-<div>
+<div class="container">
+<div class="row">
   <div class="row default-row-spacer">
      <div style="margin:0 auto ; width: 40%; ">
      <img src="<?php echo Yii::app()->baseUrl;?>/images/icon-arrow.png" alt="play icon"  data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
@@ -22,6 +22,7 @@
         </video>
         </div>
   </div>
+<div>
 <div>
 <!--end Osteo Videos-->
 <!--Icon Boxes 1-->
